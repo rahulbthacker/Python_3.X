@@ -1,0 +1,1 @@
+Hello! This repository has been created as an exclusive space for my Python code. I love Python because it helps me solve everyday problems. This is achieved by automating repetitive tasks, eliminitating redundancy, & using technology to keep my creativity intact.
